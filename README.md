@@ -1,2 +1,2 @@
 # Friends
-a simple-portfolio for my friend
+a simple-portfolio for my friend(Not-responsive)
